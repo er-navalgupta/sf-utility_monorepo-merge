@@ -1,0 +1,3 @@
+publish to alpha artifactory
+----------------------------
+url=abc.sfpocs.com
